@@ -1,0 +1,5 @@
+[workspace]
+
+members = [
+    "rho-web", "rho-back", "rho-cli"
+]
